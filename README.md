@@ -7,7 +7,7 @@
 <div id="stats">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=lentidas&show_icons=true&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api?username=lentidas&show_icons=true&theme=dracula"
       media="(prefers-color-scheme: dark)"
     />
     <source
@@ -16,9 +16,18 @@
     />
     <img src="https://github-readme-stats.vercel.app/api?username=lentidas&show_icons=true" />
   </picture>
+  <picture>
+    <source
+      srcset="https://github-profile-trophy.vercel.app/?username=lentidas&theme=dracula"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-profile-trophy.vercel.app/?username=lentidas"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-profile-trophy.vercel.app/?username=lentidas" />
+  </picture>
 </div>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=lentidas)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🧑‍💻 About Me
 
