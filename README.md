@@ -4,6 +4,19 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goncalocheleno/) ![Open Source Lover](https://badges.frapsoft.com/os/v2/open-source.svg?v=103) ![Profile View Counter](https://komarev.com/ghpvc/?username=lentidas&style=flat&color=blue)
 
+<div id="now-playing">
+  <picture>
+    <source
+      srcset="https://lentidas-now-playing.vercel.app/api?scan=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://lentidas-now-playing.vercel.app/api?scan=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://lentidas-now-playing.vercel.app/api" />
+</div>
+
 <div id="stats">
   <picture>
     <source
@@ -16,6 +29,9 @@
     />
     <img src="https://github-readme-stats.vercel.app/api?username=lentidas&show_icons=true" />
   </picture>
+</div>
+
+<div id="trophies">
   <picture>
     <source
       srcset="https://github-profile-trophy.vercel.app/?username=lentidas&theme=dracula"
@@ -28,6 +44,8 @@
     <img src="https://github-profile-trophy.vercel.app/?username=lentidas" />
   </picture>
 </div>
+
+
 
 ## 🧑‍💻 About Me
 
