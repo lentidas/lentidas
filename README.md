@@ -20,7 +20,7 @@
 <div id="stats">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=lentidas&show_icons=true&theme=dracula"
+      srcset="https://github-readme-stats.vercel.app/api?username=lentidas&show_icons=true&theme=github_dark_dimmed"
       media="(prefers-color-scheme: dark)"
     />
     <source
@@ -34,7 +34,7 @@
 <div id="trophies">
   <picture>
     <source
-      srcset="https://github-profile-trophy.vercel.app/?username=lentidas&theme=dracula"
+      srcset="https://github-profile-trophy.vercel.app/?username=lentidas&theme=dracula&no-frame=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
