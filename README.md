@@ -14,7 +14,7 @@
       srcset="https://lentidas-now-playing.vercel.app/api?scan=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://lentidas-now-playing.vercel.app/api" />
+    <img src="https://lentidas-now-playing.vercel.app/api" onerror="this.onerror=null; this.remove();"/>
 </div>
 
 <div id="stats">
@@ -27,7 +27,7 @@
       srcset="https://github-readme-stats.vercel.app/api?username=lentidas&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=lentidas&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=lentidas&show_icons=true"/>
   </picture>
 </div>
 
@@ -41,7 +41,7 @@
       srcset="https://github-profile-trophy.vercel.app/?username=lentidas"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-profile-trophy.vercel.app/?username=lentidas" />
+    <img src="https://github-profile-trophy.vercel.app/?username=lentidas"/>
   </picture>
 </div>
 
