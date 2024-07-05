@@ -11,14 +11,14 @@
   <div id="now-playing">
     <picture>
       <source
-        srcset="https://lentidas-now-playing.vercel.app/api?scan=true&theme=dark"
+        srcset="https://lentidas-now-playing.vercel.app/api?scan=true&top=true&random=true&theme=dark"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://lentidas-now-playing.vercel.app/api?scan=true"
+        srcset="https://lentidas-now-playing.vercel.app/api?scan=true&top=true&random=true"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://lentidas-now-playing.vercel.app/api"/>
+      <img src="https://lentidas-now-playing.vercel.app/api/play"/>
   </div>
 
   <div id="stats">
