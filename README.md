@@ -15,7 +15,6 @@
 
   <div id="language-badges" align="center">
     <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?logo=argo&logoColor=white&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white&style=for-the-badge"/>
