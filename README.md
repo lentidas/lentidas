@@ -1,12 +1,34 @@
 <div id="readme-top" align="center">
 
-  <img src="src/banner.jpg" align="center">
-  <br /> <br />
   <h1> Hello World! 👋 </h1>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goncalocheleno/)
-  ![Open Source Lover](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
-  ![Profile View Counter](https://komarev.com/ghpvc/?username=lentidas&style=flat&color=blue)
+  <br>
+
+  <div id="social-badges" align="center">
+    <a href="https://www.linkedin.com/in/goncalocheleno/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=lentidas&style=for-the-badge&color=blue"/>
+  </div>
+  
+  <br>
+
+  <div id="language-badges" align="center">
+    <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?logo=argo&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/GitOps-F05032?logo=git&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge"/>
+  </div>
+  
+  <br>
 
   <div id="now-playing">
     <picture>
@@ -55,21 +77,31 @@
 
 Welcome to my GitHub profile! My name is Gonçalo and I'm an informatics engineering student at [HEIG-VD](https://www.heig-vd.ch/), currently working as a part-time DevOps Engineer at [Camptocamp](https://www.camptocamp.com/).
 
-I'm passionate about software development, cybersecurity, and open-source projects. I'm always looking for new challenges and opportunities to learn and grow.
+Ever since I was a kid, I have enjoyed tinkering with computers and technology. Self-hosting services and applications in my homelab was my gateway into the world of IT and this allowed me to develop a wide range of skills and deep passion for open-source projects.
 
+In my day-to-day work, I enjoy working with cloud technologies, automation, and CI/CD pipelines. I love making things run smoothly and making life easier for developers.
 
+In a past life I was a doctor, but I decided to change careers and pursue my passion for technology. I'm always looking for new challenges and opportunities to learn and grow.
 
-<!--
-**lentidas/lentidas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills
 
-Here are some ideas to get you started:
+Below are some of the technologies and tools I have experience with (in no particular order):
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AWS and Microsoft Azure
+- Kubernetes
+- Terraform
+- Ansible
+- Helm
+- Argo CD
+- Git and GitOps practices
+- GitLab CI/CD and GitHub Actions
+- Python
+- C++
+
+## 🎨 Hobbies
+
+- 🧑‍🤝‍🧑 Quality time with my family and friends
+- 🏍️ Riding my motorcycle or sometimes just driving around
+- 🥾 Hiking
+- 📷 Photography
+- 🎮 Playing video games (mainly sim racing)
