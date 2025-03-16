@@ -14,7 +14,7 @@
     "lentidas"
   ],
   "autodiscoverFilter": [
-    "/lentidas/hledger-price-tracker"
+    "lentidas/hledger-price-tracker"
   ],
   "onboarding": false,
   "requireConfig": "required",
