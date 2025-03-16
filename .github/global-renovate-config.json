@@ -1,0 +1,32 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "config:recommended",
+    ":semanticCommitTypeAll(chore)",
+    "docker:pinDigests",
+    "docker:enableMajor"
+  ],
+  "platform": "github",
+  "platformCommit": "enabled",
+  "repositoryCache": "enabled",
+  "autodiscover": true,
+  "autodiscoverNamespaces": [
+    "lentidas"
+  ],
+  "autodiscoverFilter": [
+    "/lentidas/hledger-price-tracker"
+  ],
+  "onboarding": false,
+  "requireConfig": "required",
+  "branchPrefix": "renovate-github/",
+  "labels": [
+    "renovate",
+    "type: chore",
+    "work: obvious",
+    "state: pending",
+    "priority: soon"
+  ],
+  "dependencyDashboardLabels": [
+    "renovate"
+  ]
+}
