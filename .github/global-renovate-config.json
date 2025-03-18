@@ -29,5 +29,13 @@
   ],
   "dependencyDashboardLabels": [
     "renovate"
+  ],
+  "packageRules": [
+    {
+      "matchFileNames": [
+        ".github/workflows/**"
+      ],
+      "commitMessageExtra": "[skip ci]"
+    }
   ]
 }
