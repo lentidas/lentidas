@@ -5,12 +5,29 @@
   <br>
 
   <div id="social-badges" align="center">
-    <a href="https://www.linkedin.com/in/goncalocheleno/">
+    <a href="https://www.linkedin.com/in/goncalocheleno/" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
     </a>
     <img src="https://komarev.com/ghpvc/?username=lentidas&style=for-the-badge&color=blue"/>
   </div>
   
+  <br>
+
+  <div id="certification-badges" align="center">
+    <a href="https://www.credly.com/badges/c40d8701-043e-4a3d-b334-d7b7e83cb33f/public_url" style="text-decoration: none;">
+      <img src="assets/badges/cka-certified-kubernetes-administrator.png" height="150"/>
+    </a>
+    <a href="https://www.credly.com/badges/1412d1a2-bd1e-48cb-8e0a-ba33c7a90148/public_url" style="text-decoration: none;">
+      <img src="assets/badges/ckad-certified-kubernetes-application-developer.png" height="150"/> 
+    </a>
+    <a href="https://badges.suse.com/29444b80-b37a-48e9-a325-a472be35b540" style="text-decoration: none;">
+      <img src="assets/badges/scds-rke2.png" height="150"/>
+    </a>
+    <a href="https://badges.suse.com/ae5b4dac-f7d3-4aeb-9d4f-f86a29440e21" style="text-decoration: none;">
+      <img src="assets/badges/sca-rancher-manager.png" height="150"/>
+    </a>
+  </div>
+
   <br>
 
   <!--
@@ -98,7 +115,9 @@ Below are some of the technologies and tools I have experience with (in no parti
 - Argo CD
 - Git and GitOps practices
 - GitLab CI/CD and GitHub Actions
+- Go
 - Python
+- Java
 - C++
 
 ## 🎨 Hobbies
