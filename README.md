@@ -50,6 +50,7 @@
   
   <br>
 
+  <!-- 
   <div id="now-playing">
     <picture>
       <source
@@ -62,6 +63,7 @@
       />
       <img src="https://lentidas-now-playing.vercel.app/api/play"/>
   </div>
+  -->
 
   <div id="stats">
     <picture>
@@ -77,6 +79,7 @@
     </picture>
   </div>
 
+  <!--
   <div id="trophies">
     <picture>
       <source
@@ -90,6 +93,7 @@
       <img src="https://github-profile-trophy.vercel.app/?username=lentidas"/>
     </picture>
   </div>
+  -->
 
 </div>
 

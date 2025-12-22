@@ -42,7 +42,7 @@ jobs:
   renovate:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout repository
+    - name: Check out repository
       uses: actions/checkout@v6.0.1
 
     - name: Download repository cache for Renovate
