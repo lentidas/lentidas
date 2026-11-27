@@ -16,7 +16,8 @@
   "autodiscoverFilter": [
     "lentidas/lentidas",
     "lentidas/hledger-price-tracker",
-    "lentidas/hledger-csv-parser"
+    "lentidas/hledger-csv-parser",
+    "lentidas/terraform-provider-linux"
   ],
   "onboarding": false,
   "requireConfig": "required",
