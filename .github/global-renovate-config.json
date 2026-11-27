@@ -20,6 +20,7 @@
     "lentidas/terraform-provider-linux"
   ],
   "onboarding": false,
+  "forkProcessing": "enabled",
   "requireConfig": "required",
   "branchPrefix": "renovate-github/",
   "labels": [
