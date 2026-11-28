@@ -77,7 +77,7 @@ jobs:
       id: app-token
       uses: actions/create-github-app-token@v3.2.0
       with:
-        app-id: ${{ secrets.REPOSITORY_BOT_APP_ID }}
+        client-id: ${{ secrets.REPOSITORY_BOT_APP_ID }}
         private-key: ${{ secrets.REPOSITORY_BOT_PRIVATE_KEY }}
         # This line is what says that the token is not limited to the current repository but to all repositories its 
         # owner has access to.
